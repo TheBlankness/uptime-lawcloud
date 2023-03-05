@@ -13,10 +13,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.lawcloud.page
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://lawdrive.lawcloud.page/apps/files_sharing/publicpreview/387q74FHZ9SDH87?file=/&fileId=5220&x=2560&y=1440&a=true
   name: Lawcloud Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Lawcloud** is the self hosting hobby project built by Lawknight"
+  introMessage: Welcome to check out if any of the my services go down
   navbar:
     - title: Status
       href: /
