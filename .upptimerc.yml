@@ -7,6 +7,12 @@ sites:
     url: status.lawcloud.page
   - name: LawDrive Cloud
     url: lawdrive.lawcloud.page
+  - name: Truenas WebUI
+    url: truenas.lawcloud.page
+  - name: Doujin Server
+    url: doujin-server.lawcloud.page
+  - name: Law Blog
+    url: blog.lawcloud.page
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
