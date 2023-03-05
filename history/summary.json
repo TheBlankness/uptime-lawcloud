@@ -76,19 +76,19 @@
     "url": "blog.lawcloud.page",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "law-blog",
-    "status": "down",
-    "uptime": "98.49%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "98.49%",
-    "uptimeMonth": "98.49%",
-    "uptimeYear": "98.49%",
-    "time": 1454,
-    "timeDay": 1454,
-    "timeWeek": 1454,
-    "timeMonth": 1454,
-    "timeYear": 1454,
+    "status": "up",
+    "uptime": "22.14%",
+    "uptimeDay": "22.14%",
+    "uptimeWeek": "22.14%",
+    "uptimeMonth": "22.14%",
+    "uptimeYear": "22.14%",
+    "time": 1544,
+    "timeDay": 1544,
+    "timeWeek": 1544,
+    "timeMonth": 1544,
+    "timeYear": 1544,
     "dailyMinutesDown": {
-      "2023-03-05": 0
+      "2023-03-05": 23
     }
   }
 ]
