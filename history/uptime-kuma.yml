@@ -1,7 +1,7 @@
 url: status.lawcloud.page
-status: down
-code: 523
-responseTime: 18165
-lastUpdated: 2023-03-12T08:15:24.053Z
+status: up
+code: 200
+responseTime: 1747
+lastUpdated: 2023-03-12T08:29:33.842Z
 startTime: Sat Mar 04 2023 16:55:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
