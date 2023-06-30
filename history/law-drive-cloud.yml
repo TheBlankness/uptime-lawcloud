@@ -1,7 +1,7 @@
 url: lawdrive.lawcloud.page
-status: up
-code: 200
-responseTime: 1426
-lastUpdated: 2023-06-29T23:19:16.686Z
+status: down
+code: 502
+responseTime: 1039
+lastUpdated: 2023-06-30T16:37:58.284Z
 startTime: Sat Mar 04 2023 16:55:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
