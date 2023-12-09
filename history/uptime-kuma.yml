@@ -1,7 +1,7 @@
 url: status.lawcloud.page
-status: down
-code: 404
-responseTime: 885
-lastUpdated: 2023-12-08T23:17:27.320Z
+status: up
+code: 200
+responseTime: 5697
+lastUpdated: 2023-12-09T10:34:12.310Z
 startTime: 2023-03-04T16:55:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
