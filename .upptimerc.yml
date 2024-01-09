@@ -11,10 +11,10 @@ sites:
     url: lawdrive.lawcloud.page
   - name: Truenas WebUI
     url: truenas.lawcloud.page
-  - name: Doujin Server
-    url: doujin-server.lawcloud.page
-  - name: Law Blog
-    url: blog.lawcloud.page
+  - name: Hentai Server
+    url: hentai.lawcloud.page
+  - name: Hazim Portfolio
+    url: hazim.lawcloud.page
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
