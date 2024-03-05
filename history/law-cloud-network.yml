@@ -1,7 +1,7 @@
 url: lawcloud.com
-status: up
-code: 200
-responseTime: 1006
-lastUpdated: 2024-03-05T23:16:20.591Z
+status: down
+code: 502
+responseTime: 212
+lastUpdated: 2024-03-05T23:26:45.068Z
 startTime: 2024-02-26T08:44:34.962Z
 generator: Upptime <https://github.com/upptime/upptime>
