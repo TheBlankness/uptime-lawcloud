@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "law-cloud-network",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 861,
     "timeDay": 654,
     "timeWeek": 813,
     "timeMonth": 861,
     "timeYear": 861,
-    "dailyMinutesDown": {
-      "2024-03-05": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BildeoPC",
@@ -74,10 +72,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "law-drive-cloud",
     "status": "up",
-    "uptime": "60.02%",
+    "uptime": "60.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "57.17%",
+    "uptimeMonth": "57.21%",
     "uptimeYear": "59.78%",
     "time": 1469,
     "timeDay": 1158,
@@ -325,18 +323,20 @@
     "url": "crafty.lawcloud.page",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "crafty-controller",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1560,
-    "timeDay": 1315,
-    "timeWeek": 1493,
-    "timeMonth": 1560,
-    "timeYear": 1560,
-    "dailyMinutesDown": {}
+    "time": 1533,
+    "timeDay": 1263,
+    "timeWeek": 1465,
+    "timeMonth": 1533,
+    "timeYear": 1533,
+    "dailyMinutesDown": {
+      "2024-03-05": 0
+    }
   },
   {
     "name": "Hazim Portfolio",
