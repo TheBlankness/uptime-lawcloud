@@ -75,7 +75,7 @@
     "uptime": "60.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "57.21%",
+    "uptimeMonth": "57.28%",
     "uptimeYear": "59.78%",
     "time": 1469,
     "timeDay": 1158,
@@ -248,8 +248,7 @@
       "2023-03-24": 209,
       "2023-03-17": 90,
       "2023-03-13": 70,
-      "2023-03-12": 118,
-      "2023-03-07": 143
+      "2023-03-12": 118
     }
   },
   {
@@ -296,8 +295,7 @@
       "2023-03-24": 200,
       "2023-03-17": 90,
       "2023-03-13": 70,
-      "2023-03-12": 117,
-      "2023-03-07": 158
+      "2023-03-12": 117
     }
   },
   {
@@ -324,18 +322,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "crafty-controller",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.74%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
     "time": 1533,
     "timeDay": 1263,
     "timeWeek": 1465,
     "timeMonth": 1533,
     "timeYear": 1533,
     "dailyMinutesDown": {
-      "2024-03-05": 0
+      "2024-03-06": 27,
+      "2024-03-05": 6
     }
   },
   {
