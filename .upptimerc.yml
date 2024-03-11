@@ -4,7 +4,7 @@ repo: uptime-lawcloud # The name of this repository
 
 sites:
   - name: LawCloud Network
-    url: lawcloud.com
+    url: lawcloud.page
   - name: BildeoPC
     url: www.bildeopc.com
   - name: LawDrive Cloud
