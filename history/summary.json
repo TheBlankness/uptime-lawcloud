@@ -78,7 +78,7 @@
     "uptime": "61.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.12%",
-    "uptimeMonth": "89.68%",
+    "uptimeMonth": "89.69%",
     "uptimeYear": "59.77%",
     "time": 1468,
     "timeDay": 1560,
@@ -344,19 +344,19 @@
     "url": "hazim.lawcloud.page",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hazim-portfolio",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 718,
-    "timeDay": 782,
+    "timeDay": 754,
     "timeWeek": 722,
-    "timeMonth": 705,
+    "timeMonth": 706,
     "timeYear": 718,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 5
     }
   }
 ]
