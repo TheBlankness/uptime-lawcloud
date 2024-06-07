@@ -4,26 +4,26 @@ repo: uptime-lawcloud # The name of this repository
 
 sites:
   - name: LawCloud Network
-    url: lawcloud.page
+    url: jomcloud.com
   - name: BildeoPC
     url: www.bildeopc.com
   - name: LawDrive Cloud
-    url: lawdrive.lawcloud.page
+    url: lawdrive.jomcloud.com
   - name: Truenas WebUI
-    url: truenas.lawcloud.page
+    url: truenas.jomcloud.com
   - name: Manga Server
-    url: manga.lawcloud.page
+    url: manga.jomcloud.com
   - name: Crafty Controller
-    url: crafty.lawcloud.page
+    url: crafty.jomcloud.com
   - name: Hazim Portfolio
-    url: hazim.lawcloud.page
+    url: hazim.jomcloud.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: uptime.lawcloud.page
+  cname: uptime.jomcloud.com
   # baseUrl: /your-repo-name
-  logoUrl: https://lawdrive.lawcloud.page/apps/files_sharing/publicpreview/387q74FHZ9SDH87?file=/&fileId=5220&x=2560&y=1440&a=true
+  logoUrl: https://lawdrive.jomcloud.com/apps/files_sharing/publicpreview/387q74FHZ9SDH87?file=/&fileId=5220&x=2560&y=1440&a=true
   name: Lawcloud Status
   introTitle: "**Lawcloud** is the self hosting hobby project built by Lawknight"
   introMessage: Welcome to check out if any of the my services go down
