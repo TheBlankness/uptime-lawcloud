@@ -1,7 +1,7 @@
 url: manga.jomcloud.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-28T10:47:20.303Z
+status: up
+code: 200
+responseTime: 429
+lastUpdated: 2025-03-28T10:50:38.811Z
 startTime: 2024-02-26T08:44:41.364Z
 generator: Upptime <https://github.com/upptime/upptime>
