@@ -5,10 +5,10 @@ repo: uptime-lawcloud # The name of this repository
 sites:
   - name: LawCloud Network
     url: jomcloud.com
-  - name: BildeoPC
-    url: www.bildeopc.com
-  - name: LawDrive Cloud
-    url: lawdrive.jomcloud.com
+  - name: Portainer
+    url: portainer.jomcloud.com
+  - name: Image Cloud
+    url: photos.jomcloud.com
   - name: Truenas WebUI
     url: truenas.jomcloud.com
   - name: Manga Server
