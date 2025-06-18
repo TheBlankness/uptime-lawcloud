@@ -4,7 +4,7 @@ repo: uptime-lawcloud # The name of this repository
 
 sites:
   - name: LawCloud Network
-    url: jomcloud.com
+    url: www.jomcloud.com
   - name: Portainer
     url: portainer.jomcloud.com
   - name: Image Cloud
