@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "law-cloud-network",
     "status": "up",
-    "uptime": "24.02%",
+    "uptime": "24.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "12.84%",
-    "time": 1303,
-    "timeDay": 795,
-    "timeWeek": 865,
-    "timeMonth": 783,
-    "timeYear": 797,
+    "uptimeYear": "13.11%",
+    "time": 1297,
+    "timeDay": 1112,
+    "timeWeek": 905,
+    "timeMonth": 786,
+    "timeYear": 803,
     "dailyMinutesDown": {
       "2025-07-27": 20,
       "2025-07-22": 21,
@@ -334,8 +334,7 @@
       "2024-08-09": 1440,
       "2024-08-08": 1440,
       "2024-08-07": 1440,
-      "2024-08-06": 1440,
-      "2024-08-05": 1440
+      "2024-08-06": 1440
     }
   },
   {
@@ -344,16 +343,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "portainer",
     "status": "up",
-    "uptime": "98.98%",
+    "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.43%",
-    "uptimeYear": "98.98%",
-    "time": 2017,
-    "timeDay": 634,
-    "timeWeek": 792,
-    "timeMonth": 1771,
-    "timeYear": 2017,
+    "uptimeYear": "99.00%",
+    "time": 1994,
+    "timeDay": 657,
+    "timeWeek": 791,
+    "timeMonth": 1772,
+    "timeYear": 1994,
     "dailyMinutesDown": {
       "2025-07-08": 689
     }
@@ -364,16 +363,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "image-cloud",
     "status": "up",
-    "uptime": "98.98%",
+    "uptime": "99.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.43%",
-    "uptimeYear": "98.98%",
-    "time": 2438,
-    "timeDay": 1202,
-    "timeWeek": 1503,
-    "timeMonth": 2469,
-    "timeYear": 2438,
+    "uptimeYear": "99.01%",
+    "time": 2419,
+    "timeDay": 1377,
+    "timeWeek": 1482,
+    "timeMonth": 2467,
+    "timeYear": 2419,
     "dailyMinutesDown": {
       "2025-07-08": 687
     }
@@ -384,16 +383,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "truenas-web-ui",
     "status": "up",
-    "uptime": "82.35%",
+    "uptime": "82.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.44%",
-    "uptimeYear": "80.36%",
+    "uptimeYear": "80.63%",
     "time": 1445,
-    "timeDay": 974,
-    "timeWeek": 1070,
-    "timeMonth": 2148,
-    "timeYear": 1463,
+    "timeDay": 1099,
+    "timeWeek": 1081,
+    "timeMonth": 2149,
+    "timeYear": 1462,
     "dailyMinutesDown": {
       "2025-07-08": 685,
       "2025-06-17": 45,
@@ -481,8 +480,7 @@
       "2024-08-09": 1440,
       "2024-08-08": 1440,
       "2024-08-07": 1440,
-      "2024-08-06": 1440,
-      "2024-08-05": 1440
+      "2024-08-06": 1440
     }
   },
   {
@@ -497,10 +495,10 @@
     "uptimeMonth": "98.44%",
     "uptimeYear": "99.62%",
     "time": 1012,
-    "timeDay": 584,
-    "timeWeek": 611,
-    "timeMonth": 1705,
-    "timeYear": 947,
+    "timeDay": 640,
+    "timeWeek": 613,
+    "timeMonth": 1706,
+    "timeYear": 945,
     "dailyMinutesDown": {
       "2025-07-08": 683,
       "2025-06-15": 15,
@@ -527,16 +525,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "crafty-controller",
     "status": "up",
-    "uptime": "59.42%",
+    "uptime": "59.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.44%",
-    "uptimeYear": "80.07%",
+    "uptimeYear": "80.34%",
     "time": 1308,
-    "timeDay": 907,
-    "timeWeek": 1091,
-    "timeMonth": 2152,
-    "timeYear": 1359,
+    "timeDay": 1119,
+    "timeWeek": 1086,
+    "timeMonth": 2151,
+    "timeYear": 1358,
     "dailyMinutesDown": {
       "2025-07-08": 682,
       "2025-06-02": 26,
@@ -624,8 +622,7 @@
       "2024-08-09": 1440,
       "2024-08-08": 1440,
       "2024-08-07": 1440,
-      "2024-08-06": 1440,
-      "2024-08-05": 1440
+      "2024-08-06": 1440
     }
   },
   {
@@ -640,10 +637,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 982,
-    "timeDay": 1031,
-    "timeWeek": 1244,
-    "timeMonth": 1130,
-    "timeYear": 1087,
+    "timeDay": 1138,
+    "timeWeek": 1212,
+    "timeMonth": 1118,
+    "timeYear": 1089,
     "dailyMinutesDown": {
       "2024-10-12": 16
     }
