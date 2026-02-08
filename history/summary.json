@@ -6,17 +6,16 @@
     "slug": "law-cloud-network",
     "status": "up",
     "uptime": "44.03%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "64.27%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "64.29%",
     "time": 889,
     "timeDay": 421,
     "timeWeek": 752,
     "timeMonth": 815,
     "timeYear": 889,
     "dailyMinutesDown": {
-      "2026-02-07": 12,
       "2026-01-03": 40,
       "2025-11-18": 142,
       "2025-11-15": 16,
@@ -155,8 +154,7 @@
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
-      "2025-02-09": 1440,
-      "2025-02-08": 1440
+      "2025-02-09": 1440
     }
   },
   {
