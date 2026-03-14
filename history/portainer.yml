@@ -1,7 +1,7 @@
 url: portainer.jomcloud.com
-status: down
-code: 530
-responseTime: 2130
-lastUpdated: 2026-03-14T16:32:48.777Z
+status: up
+code: 200
+responseTime: 673
+lastUpdated: 2026-03-14T16:57:46.821Z
 startTime: 2025-06-18T00:55:39.370Z
 generator: Upptime <https://github.com/upptime/upptime>
