@@ -1,7 +1,7 @@
 url: truenas.jomcloud.com
-status: down
-code: 530
-responseTime: 2012
-lastUpdated: 2026-07-11T06:08:40.117Z
+status: up
+code: 200
+responseTime: 909
+lastUpdated: 2026-07-11T09:45:36.378Z
 startTime: 2023-03-05T16:00:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
